@@ -2,8 +2,8 @@
 
 🎯 Flutter Learner with Initial Learning curve in C/C++  
 📱 Focused on Building Mobile Apps With Clean UI and Logic  
-💻 Working on Making my Concepts Strong in Dart or Flutter.  
+💻 Working on E-Commerce Flutter App.  
 📚 Always learning — more projects coming soon!
 
-🥅 **2025 Goal**: Seeking a Flutter Internship Opportunity.
-⚡**Fun fact**: Observing others' mistakes helps me avoid them.
+🥅 **2026 Goal**: Seeking a Flutter Internship Opportunity.
+⚡**Fun fact**: Observing other's mistakes helps me avoid them.
