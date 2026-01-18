@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mirza Sameer Asghar
 
 🎯 Flutter Learner with Initial Learning curve in C/C++  
-📱 Focused on Building Mobile Apps With Clean UI and Logic  
+📱  Focused on Building Mobile Apps With Clean UI and Logic  
 💻 Working on E-Commerce Flutter App.  
 📚 Always learning — more projects coming soon!
 
